@@ -11,7 +11,7 @@ function GetPeerId(yourid) {
 
     //peerオブジェクトの作成
     peer = new Peer(yourid,{
-        key: '6cee6718-08d3-4ce7-93a9-237ecd4601bb',    //APIkey
+        key: 'bdd396a0-1b22-4921-824b-4582ad17e739',    //APIkey
         debug: 3
     });
 
